@@ -1,2 +1,0 @@
-# VUE-DEMO
-TEST
